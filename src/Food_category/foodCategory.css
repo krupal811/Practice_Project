@@ -1,0 +1,120 @@
+.food_description {
+    margin: auto;
+    color: blue;
+    font-size: medium;
+    font-weight: 700;
+}
+
+.dark_true {
+    background-color: #1a1b1d;
+    margin-top: 20px;
+    display: inline-block;
+    padding-left: 30px;
+    width: 500px;
+}
+
+.food_container {
+    margin-top: 30px;
+}
+
+.food-label {
+    color: black;
+    font-size: 20px;
+}
+
+.price-label {
+    padding-left: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.img_content {
+    margin-top: 20px;
+    display: inline-block;
+    padding-left: 30px;
+    width: 500px;
+}
+
+.card {
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgb(146, 142, 142);
+    margin: auto;
+    transition: 1s;
+
+}
+
+.card:hover {
+    transform: scale(1.1);
+
+}
+
+.form-select {
+    height: 50px;
+    cursor: pointer;
+    width: 400px;
+    padding: 5px;
+}
+
+.food_type {
+    /* color: rgb(142, 161, 177); */
+    /* color: rgba(85, 96, 105, 0.585); */
+    color: #ccc;
+    margin-left: 200px;
+}
+
+/* .form-select button{
+    margin-top: 10px;
+    height: 40px;
+    width: 60px;
+    margin-left: 30px;
+    background-color: rgb(178, 237, 237);
+    border: none;
+} */
+.open-btn {
+    height: 40px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: rgb(178, 237, 237);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.open-btn:hover {
+    background-color: greenyellow;
+    color: rgb(242, 39, 39);
+}
+
+.close-btn {
+    float: right;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    background-color: red;
+}
+
+.card-img-top {
+    height: 165px;
+    width: 165px;
+    margin-top: 20px;
+}
+
+.card-title {
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+
+.card-text {
+    padding: 20px;
+}
+
+.opacity-0 {
+    opacity: 0;
+}
+
+.opacity-100 {
+    opacity: 1;
+}

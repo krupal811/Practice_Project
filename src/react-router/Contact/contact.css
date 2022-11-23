@@ -1,0 +1,30 @@
+.section_container {
+    margin: 100px auto 0 auto;
+    border: 1px solid black;
+    max-width: 50%;
+
+
+}
+
+.form_container {
+    text-align: center;
+}
+
+.header_content {
+    font-size: 25px;
+    color: rgb(13, 94, 244);
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.para_content {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0px auto;
+
+}
+.name_input{
+    margin-top: 10px;
+
+}
+    

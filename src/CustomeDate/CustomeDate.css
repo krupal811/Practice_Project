@@ -1,0 +1,11 @@
+.lmpcCT {
+    width: 100%;
+    padding: 5px;
+    color: black;
+    background: white;
+    border: 1px solid;
+    border-radius: 3px;
+    width: 20%;
+
+    box-sizing: border-box;
+}

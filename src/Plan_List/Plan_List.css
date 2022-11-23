@@ -1,0 +1,51 @@
+.plan_list_body {
+    background: linear-gradient(to right, rgb(181, 181, 181), #1a1b1d);
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.plan_list_content {
+    box-shadow: 10px 10px 10px black;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 10px;
+    height: 500px;
+    box-sizing: border-box;
+}
+
+.plan_txt {
+    color: white;
+}
+
+.txt_input {
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+}
+
+.add_btn {
+    width: 100px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-color: rgb(255, 183, 0);
+    height: 30px;
+    border-radius: 10px;
+}
+
+.cancle_btn {
+    margin-left: 10px;
+    margin-top: 8px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
